@@ -8,7 +8,7 @@
 
 ## 预览
 
-🔗 [在线查看](https://你的用户名.github.io/仓库名/)
+🔗 [在线查看](https://ziyaxd23.github.io/claude-emotional-bonding/)
 
 ## 声明
 
